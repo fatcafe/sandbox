@@ -1,0 +1,44 @@
+bin/
+build/
+lib/
+.vs/
+*.suo
+*.opensdf
+*.sdf
+*.user
+ipch
+*.exe
+*.aps
+*.obj
+*.swp
+*.dll
+*.log
+*.cfg
+*.core
+*.zip
+*.sleepy
+*.dat
+
+Win32/
+x64/
+Debug/
+Release/
+debug/
+release/
+
+# Mac
+.DS_Store
+
+# Xcode
+xcuserdata/
+
+# VSCode
+.vscode/
+
+# premake5
+premake5
+Makefile
+*.sln
+
+# fatcore tools
+fatbuild
